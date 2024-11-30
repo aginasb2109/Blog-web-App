@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(198, 213, 237);
+}
+
+ul>li{
+    font-size: 25px;
+}
+h1{
+    color:rgb(181, 80, 80);
+}

@@ -1,0 +1,27 @@
+
+ .form-control.title {
+    height: 2.5rem; 
+}
+
+.form-control.description {
+    height: 4rem; 
+    resize: none; 
+}
+
+.form-control.markdown {
+    height: 20rem; 
+}
+
+.button{
+width:120px;
+height:60px;
+font-size: 20px;
+border-radius: 5px;
+}
+
+h1{
+    color:black;
+}
+body{
+    background:cornflowerblue;
+}
